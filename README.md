@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Kornel Janczak</h1>
 <h3 align="center">A passionate frontend developer from Poland</h3>
 
-<img align="right" alt="Coding" width="480" src="https://media4.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e478mhxidfjbdb2farcxgh37s81vzuc3gu68m5baj1i&ep=v1_gifs_search&rid=giphy.gif&ct=g" />
+<img align="right" alt="Coding" width="400" src="https://media4.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e478mhxidfjbdb2farcxgh37s81vzuc3gu68m5baj1i&ep=v1_gifs_search&rid=giphy.gif&ct=g" />
 
 - 🔭 I’m currently working on [audiophile-website](https://github.com/KornelJanczak/audiophile-website)
 
