@@ -3,8 +3,7 @@
 
 <img align="right" alt="Coding" width="400" src="https://media4.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e478mhxidfjbdb2farcxgh37s81vzuc3gu68m5baj1i&ep=v1_gifs_search&rid=giphy.gif&ct=g" />
 
-- 🔭 I’m currently working on [audiophile-website](https://github.com/KornelJanczak/audiophile-website)
-
+- 🔭 I’m currently working on [product-feedback-app](https://github.com/KornelJanczak/product-feedback-app)
 - 🌱 I’m currently learning **Next.js 14**
 
 - 💬 Ask me about **React,Next.js**
