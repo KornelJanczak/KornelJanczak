@@ -1,10 +1,11 @@
-<h1 align="center">Hi 👋, I'm Kornel Janczak</h1>
-<h3 align="center">A passionate frontend developer from Poland</h3>
 
-<img align="right" alt="Coding" width="400" src="https://media4.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e478mhxidfjbdb2farcxgh37s81vzuc3gu68m5baj1i&ep=v1_gifs_search&rid=giphy.gif&ct=g" />
+<img align="center" alt="wallpaper" width="400" src="https://images.wallpapersden.com/image/download/small-memory_am1pa2aUmZqaraWkpJRobWllrWdma2U.jpg" />
+
+<h1 align="left">Hello there👋</h1>
 
 <h2 align="left">About me 💻</h2>
 I'm a 19-year-old frontend developer with aspirations to become a fullstack developer. I have a keen interest in the tech industry, constantly seeking out the latest newest, particularly in the word of JavaScript. My primary focus lies in ensuring code quality and scalability programming isn't just a job for me, it's my passion. I'm always striving to the best in what I do.
+
 
 - 🔭 I’m currently working on [product-feedback-app](https://github.com/KornelJanczak/product-feedback-app)
 - 🌱 I’m currently learning **Next.js 14**
