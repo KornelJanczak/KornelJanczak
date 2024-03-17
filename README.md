@@ -7,6 +7,7 @@
 I'm a 19-year-old frontend developer with aspirations to become a fullstack developer. I have a keen interest in the tech industry, constantly seeking out the latest newest, particularly in the word of JavaScript. My primary focus lies in ensuring code quality and scalability programming isn't just a job for me, it's my passion. I'm always striving to the best in what I do.
 
 <h2 align="left">Something about my coding adventure🤖</h2>
+
 - 🔭 I’m currently working on [product-feedback-app](https://github.com/KornelJanczak/product-feedback-app)
 - 🌱 I’m currently learning **Next.js 14**
 - 🎯 My second goal gonna be **Node.js + Express** 
