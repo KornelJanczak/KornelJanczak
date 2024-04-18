@@ -8,7 +8,7 @@ I'm a 19-year-old frontend developer with aspirations to become a fullstack deve
 
 <h2 align="left">Something about my coding adventure🤖</h2>
 
-- 🔭 I’m currently working on personal portfolio
+- 🔭 I’m currently working on <a href="https://kornel-janczak.vercel.app/en" target="_blank">Personal Portfolio</a>
 - 🌱 I’m currently learning **Next.js 14**
 - 🎯 My second goal gonna be **Node.js + Express** 
 - 💬 Ask me about **React,Next.js**
