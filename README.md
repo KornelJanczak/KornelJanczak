@@ -11,7 +11,7 @@ I'm a 19-year-old frontend developer with aspirations to become a fullstack deve
 - 🔭 I’m currently working on <a href="https://kornel-janczak.com" target="_blank">Personal Portfolio</a>
 - 🌱 I’m currently learning **Node.js + Express**
 - 🎯 My second goal gonna be **Python** 
-- 💬 Ask me about **React,Next.js**
+- 💬 Ask me about **React, Next.js**
 - 📫 How to reach me **korneljanczak10@gmail.com**
 
 <p align="left">
