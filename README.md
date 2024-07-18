@@ -8,7 +8,7 @@ I'm a 20-year-old frontend developer with aspirations to become a fullstack deve
 
 <h2 align="left">Something about my coding adventure🤖</h2>
 
-- 🔭 I’m currently working on <a href="https://kornel-janczak.com" target="_blank">Todo express API</a>
+- 🔭 I’m currently working on <a href="https://github.com/KornelJanczak/todo-express-api" target="_blank">Todo express API</a>
 - 🌱 I’m currently learning **Node.js + Express**
 - 🎯 My second goal gonna be **C# + .NET** 
 - 💬 Ask me about **React, Next.js**
