@@ -4,7 +4,7 @@
 <h1 align="center">Hello there👋</h1>
 
 <h2 align="left">About me💻</h2>
-I'm a 20-year-old frontend developer with aspirations to become a fullstack developer. I have a keen interest in the tech industry, constantly seeking out the latest newest, particularly in the word of JavaScript. My primary focus lies in ensuring code quality and scalability programming isn't just a job for me, it's my passion. I'm always striving to the best in what I do.
+I'm a 20-year-old fullstack developer. I have a keen interest in the tech industry, constantly seeking out the latest newest, particularly in the word of JavaScript. My primary focus lies in ensuring code quality and scalability programming isn't just a job for me, it's my passion. I'm always striving to the best in what I do.
 
 <h2 align="left">Something about my coding adventure🤖</h2>
 
