@@ -8,10 +8,10 @@ I'm a 20-year-old fullstack developer. I have a keen interest in the tech indust
 
 <h2 align="left">Something about my coding adventure🤖</h2>
 
-- 🔭 I’m currently working on <a href="https://github.com/KornelJanczak/ITJobHunter" target="_blank">ITJobHunter</a>
+- 🔭 I’m currently working on <a href="https://github.com/KornelJanczak/Fluentify" target="_blank">Fluentify</a>
 - 🌱 I’m currently learning **Node.js + Express**
-- 🎯 My second goal gonna be **C# + .NET** 
-- 💬 Ask me about **React, Next.js**
+- 🎯 My second goal gonna be **Java** 
+- 💬 Ask me about **Node.js, React, Next.js**
 - 📫 How to reach me **korneljanczak10@gmail.com**
 
 <p align="left">
