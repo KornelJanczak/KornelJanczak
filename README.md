@@ -12,12 +12,13 @@ I’m a 20-year-old Fullstack developer and a first-year computer science studen
 - 💬 Ask me about **Node.js, React.js, Next.js**
 - 📫 How to reach me **korneljanczak10@gmail.com**
 
+Check out my [coding portfolio!](https://kornel-janczak.com)
+
 ## 🚀 What I'm Up To
 
 - 💻 Building Fullstack applications with React.js and Node.js
 - 🌍 Exploring Web Development
 
-Check out my [coding portfolio!](https://kornel-janczak.com)
 
 # 💻 Tech Stack:
 
