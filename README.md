@@ -19,11 +19,14 @@ I'm a 20-year-old fullstack developer. I have a keen interest in the tech indust
 
 # 💻 Tech Stack:
 
-Languages: 
+Languages:
+
 [![Languages](https://skillicons.dev/icons?i=ts,js,css,html&perline=6)](https://skillicons.dev)
 
-Tools: 
+Tools:
+
 [![Tools](https://skillicons.dev/icons?i=postman,git&perline=6)](https://skillicons.dev)
 
 Frameworks/Libraries:
+
 [![Frameworks/Libraries](https://skillicons.dev/icons?i=react,nodejs,express,nextjs,postgresql,mongodb,tailwindcss&perline=7)](https://skillicons.dev)
