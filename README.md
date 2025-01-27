@@ -17,7 +17,7 @@ Check out my [coding portfolio!](https://kornel-janczak.com)
 ## 🚀 What I'm Up To
 
 - 💻 Building Fullstack applications with React.js and Node.js
-- 🌍 Exploring Web Development
+- 🌍 Exploring Backend Development
 
 
 # 💻 Tech Stack:
