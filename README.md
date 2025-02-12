@@ -5,7 +5,7 @@
 
 <h2 align="left">About me💻</h2>
 I’m a 20-year-old Fullstack developer with a focus on backend and a first-year computer science student with a deep passion for the tech industry. I stay up-to-date with the latest advancements, particularly in the world of JavaScript, and I’m dedicated to creating high-quality, scalable code. 
-
+ 
 ## 🤖 Something about my coding adventure ##
 
 - 🔭 I’m currently working on <a href="https://github.com/KornelJanczak/Fluentify" target="_blank">Fluentify</a>
