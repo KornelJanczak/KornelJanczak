@@ -30,4 +30,4 @@ Check out my [coding portfolio!](https://kornel-janczak.com)
 [![Tools](https://skillicons.dev/icons?i=postman,git&perline=6)](https://skillicons.dev)
 
 ### Frameworks/Libraries:
-[![Frameworks/Libraries](https://skillicons.dev/icons?i=nestjs,nodejs,nextjs,express,nodejs,postgresql,mongodb,tailwindcss&perline=7)](https://skillicons.dev)
+[![Frameworks/Libraries](https://skillicons.dev/icons?i=nestjs,nodejs,nextjs,express,react,postgresql,mongodb,tailwindcss&perline=7)](https://skillicons.dev)
