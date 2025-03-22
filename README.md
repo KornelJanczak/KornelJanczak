@@ -9,7 +9,6 @@ I’m a 20-year-old software developer with a focus on backend and a first-year 
 ## 🤖 Something about my coding adventure ##
 
 - 🔭 I’m currently working on <a href="https://github.com/KornelJanczak/Fluentify" target="_blank">Fluentify</a>
-- 💻 and I've been rewriting server from Express to Nest.js: <a href="https://github.com/KornelJanczak/fluentify-server" target="_blank">Fluentify-server</a>
 - 💬 Ask me about **Node.js, React.js, Next.js**
 - 📫 How to reach me **korneljanczak10@gmail.com**
 - 🎯 Next goal: **Java + Spring Boot**
