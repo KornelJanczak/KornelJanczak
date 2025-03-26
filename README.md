@@ -17,6 +17,7 @@ Check out my [coding portfolio!](https://kornel-janczak.com)
 
 ## 🚀 What I'm Up To
 
+- 💻 Building Backend applications with Nest.js
 - 💻 Building Fullstack applications with Next.js and Node.js
 - 🌍 Exploring Backend Development
 
