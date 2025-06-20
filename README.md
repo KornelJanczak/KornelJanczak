@@ -25,7 +25,7 @@ Check out my [coding portfolio!](https://kornel-janczak.com)
 # 💻 Tech Stack:
 
 ### Languages:
-[![Languages](https://skillicons.dev/icons?i=ts,js,css,html&perline=6)](https://skillicons.dev)
+[![Languages](https://skillicons.dev/icons?i=ts,js&perline=6)](https://skillicons.dev)
 
 ### Tools:
 [![Tools](https://skillicons.dev/icons?i=postman,git,docker,linux,aws&perline=6)](https://skillicons.dev)
