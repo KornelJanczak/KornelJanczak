@@ -30,5 +30,8 @@ Check out my [coding portfolio!](https://kornel-janczak.com)
 ### Tools:
 [![Tools](https://skillicons.dev/icons?i=postman,git,docker,linux,aws,nginx,graphql&perline=6)](https://skillicons.dev)
 
-### Frameworks/Libraries:
-[![Frameworks/Libraries](https://skillicons.dev/icons?i=nestjs,nodejs,nextjs,express,react,postgresql,tailwindcss&perline=7)](https://skillicons.dev)
+### Backend:
+[![Frameworks/Libraries](https://skillicons.dev/icons?i=nestjs,nodejs,express,postgresql&perline=7)](https://skillicons.dev)
+
+### Frontend:
+[![Frameworks/Libraries](https://skillicons.dev/icons?i=nextjs,react,tailwindcss&perline=7)](https://skillicons.dev)
