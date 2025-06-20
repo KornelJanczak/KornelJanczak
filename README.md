@@ -28,7 +28,7 @@ Check out my [coding portfolio!](https://kornel-janczak.com)
 [![Languages](https://skillicons.dev/icons?i=ts,js&perline=6)](https://skillicons.dev)
 
 ### Tools:
-[![Tools](https://skillicons.dev/icons?i=postman,git,docker,linux,aws&perline=6)](https://skillicons.dev)
+[![Tools](https://skillicons.dev/icons?i=postman,git,docker,linux,aws,nginx,graphql&perline=6)](https://skillicons.dev)
 
 ### Frameworks/Libraries:
 [![Frameworks/Libraries](https://skillicons.dev/icons?i=nestjs,nodejs,nextjs,express,react,postgresql,tailwindcss&perline=7)](https://skillicons.dev)
