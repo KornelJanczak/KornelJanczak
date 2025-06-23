@@ -34,4 +34,4 @@ Check out my [coding portfolio!](https://kornel-janczak.com)
 [![Frameworks/Libraries](https://skillicons.dev/icons?i=nestjs,nodejs,express,postgresql&perline=7)](https://skillicons.dev)
 
 ### Frontend:
-[![Frameworks/Libraries](https://skillicons.dev/icons?i=nextjs,react,react-native,tailwindcss&perline=7)](https://skillicons.dev)
+[![Frameworks/Libraries](https://skillicons.dev/icons?i=nextjs,react,reactnative,tailwindcss&perline=7)](https://skillicons.dev)
