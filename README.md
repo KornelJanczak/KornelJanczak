@@ -1,5 +1,4 @@
 
-<img align="center" alt="wallpaper" src="https://images.wallpapersden.com/image/download/small-memory_am1pa2aUmZqaraWkpJRobWllrWdma2U.jpg" />
 
 <h1 align="center">Hello there👋</h1>
 
