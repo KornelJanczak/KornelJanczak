@@ -10,7 +10,7 @@ I’m a 20-year-old software developer with a focus on backend and a first-year 
 - 🔭 I’m currently working on <a href="https://github.com/KornelJanczak/Fluentify" target="_blank">Fluentify</a>
 - 💬 Ask me about **Node.js, Nest.js, Next.js**
 - 📫 How to reach me **korneljanczak10@gmail.com**
-- 🎯 Next goal: **Docker**
+- 🎯 Next goal: **LangChain**
 
 Check out my [coding portfolio!](https://kornel-janczak.com)
 
